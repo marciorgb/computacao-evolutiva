@@ -5,3 +5,4 @@ Montes Claros no curso de Engenharia de Sistemas
 # Indice
 
 - [Caixa Preta](CP/)
+- [Rastrigin](RT/)
